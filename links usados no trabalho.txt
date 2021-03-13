@@ -1,0 +1,12 @@
+links usados no trabalho
+- Font awesome ... MEU LINK ( https://kit.fontawesome.com/a5b12f8140.js )
+<script src="https://kit.fontawesome.com/a5b12f8140.js" crossorigin="anonymous"></script>
+
+- OwlCarousel
+- The movie data base
+
+
+
+
+Obs:
+- pesquisar sobre a diferença de wrapper e conteiner
